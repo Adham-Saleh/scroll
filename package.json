@@ -12,6 +12,7 @@
   "dependencies": {
     "@nuxt/ui": "^4.1.0",
     "@tailwindcss/vite": "^4.1.16",
+    "@vueuse/nuxt": "14.0.0",
     "nuxt": "^4.2.0",
     "pug": "^3.0.3",
     "tailwindcss": "^4.1.16",
